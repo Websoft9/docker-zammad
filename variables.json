@@ -3,7 +3,7 @@
   "trademark": "Zammad",
   "installpath": "/data/wwwroot/zammad",
   "compose_file": "docker-compose.yml",
-  "fork_url": "https://github.com/zammad/zammad-docker",
+  "fork_url": "https://github.com/zammad/zammad-docker-compose",
   "env_file": ".env",
   "requirements":{
     "cpu_arch": "Linux x86-64, ARM 32/64, IBM POWER8, x86/i686",
