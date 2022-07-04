@@ -121,3 +121,8 @@ volumes:
     driver: local
   zammad-data:
     driver: local
+
+networks:
+  default:
+    name: ${APP_NETWORK}
+    external: true
